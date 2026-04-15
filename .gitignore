@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+.agent/
+.agents/
+.gemini/
+.env
+*.log

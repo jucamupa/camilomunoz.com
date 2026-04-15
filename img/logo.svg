@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="184.49075"
+   height="25.961416"
+   viewBox="0 0 48.813181 6.8689577"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logocm.svg"
+   inkscape:export-filename="logo-cm-3.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.9410081"
+     inkscape:cx="90.159335"
+     inkscape:cy="72.642664"
+     inkscape:window-width="1366"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.111602,-89.742029)">
+    <g
+       id="g1"
+       transform="matrix(0.81129431,0,0,0.81129431,5.1051057,16.768547)">
+      <path
+         id="path77"
+         style="opacity:1;fill:#ff4300;fill-opacity:1;stroke:none;stroke-width:0.00842108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 28.357769,89.946991 v 8.466666 h 8.466667 v -4.010528 h -1.33685 v 2.673685 h -5.792975 v -5.792983 h 5.792975 v 2.673682 h 1.33685 v -4.010522 z m 1.782456,1.782456 V 96.6312 h 1.336841 v -3.564911 h 0.445615 V 96.6312 h 1.336842 v -3.564911 h 0.445613 V 96.6312 h 1.336843 v -4.901753 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.827px;line-height:1;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:-0.489187px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="39.827717"
+         y="97.098251"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.827px;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:-0.489187px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="39.827717"
+           y="97.098251">Camilo Muñoz</tspan></text>
+    </g>
+  </g>
+</svg>
